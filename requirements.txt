@@ -1,0 +1,10 @@
+# Core dependencies
+requests>=2.31.0
+dnspython>=2.4.0
+
+# Optional dependencies for enhanced functionality
+# For better domain parsing (recommended)
+# tldextract>=5.0.0
+
+# For progress bars (optional)
+# tqdm>=4.66.0

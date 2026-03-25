@@ -1,0 +1,12 @@
+{
+  "api_keys": {
+    "virustotal": "YOUR_VIRUSTOTAL_API_KEY_HERE",
+    "securitytrails": "YOUR_SECURITYTRAILS_API_KEY_HERE",
+    "shodan": "YOUR_SHODAN_API_KEY_HERE"
+  },
+  "settings": {
+    "timeout": 30,
+    "max_retries": 3,
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36"
+  }
+}
