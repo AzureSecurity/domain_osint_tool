@@ -1,0 +1,26 @@
+{
+  "timestamp": "2026-03-25T17:26:54.429793",
+  "domains": [
+    "example.com"
+  ],
+  "subdomains": {
+    "example.com": {
+      "list": [
+        "dev.example.com",
+        "example.com",
+        "m.example.com",
+        "m.testexample.com",
+        "products.example.com",
+        "support.example.com",
+        "www.example.com"
+      ],
+      "wildcard_info": {
+        "domain": "example.com",
+        "has_wildcard": false,
+        "detection_method": null,
+        "wildcard_ips": [],
+        "warning": null
+      }
+    }
+  }
+}
