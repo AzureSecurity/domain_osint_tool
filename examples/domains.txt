@@ -1,0 +1,6 @@
+# Example domains file
+# Add one domain per line
+# Lines starting with # are ignored
+
+example.com
+test.org
